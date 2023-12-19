@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning about **ROS2 and Artificial vision**
 
-- 🤝 I’m looking for help with **ROS2 for RISC-V**
-
 - 📫 How to reach me **vicenbarser@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
